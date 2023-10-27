@@ -1,0 +1,1 @@
+// Displays only the name price and description
